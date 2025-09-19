@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>Mi primer página web</h1>
+            <a href="">
+                <img src="img/moka.jpg" alt="Café frío moka">
+                <img src="img/gato.jpg" alt="Gato negro">
+                <img src="img/enchiladas.jpg" alt="Enchiladas verdes">
+
+
+            </a>
+        </nav>
+        <section>
+            <h3></h3>
+
+        </section>
+        <aside>
+            <ul>
+
+            </ul>
+
+        </aside>
+        <footer>
+            <a>
+                <img src="imgs/gato.jpg" alt="Gato negro">
+                <img src="imgs/moka.jpg" alt="Café frío moka">
+                <img src="imgs/enchiladas.jpg" alt="Enchiladas verdes">
+                <p>Derechos reservados</p>
+        </footer>
+
+    </header>
+
+
+</body>
+
+</html>
